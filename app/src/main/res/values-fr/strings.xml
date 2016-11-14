@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PremierDevoirsAndroid </string>
+    <string name="mensaje_bienvenida">Welcome</string>
+    <string name="mensaje_boton">Entrer</string>
+</resources>
